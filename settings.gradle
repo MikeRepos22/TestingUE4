@@ -1,0 +1,5 @@
+rootProject.name = "ViewOverUE4"
+include ':app'
+include ':app:CustomSnackView'
+include ':UnrealSnackbar'
+include ':CustomSnackbar1'
